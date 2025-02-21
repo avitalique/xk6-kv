@@ -19,7 +19,7 @@
 ## Installation
 To use `xk6-kv`, you first need to build `k6` with it:
 ```
-xk6 build --with github.com/oleiade/xk6-kv
+xk6 build --with github.com/avitalique/xk6-kv
 ```
 
 ## Usage
