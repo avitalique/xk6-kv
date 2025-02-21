@@ -79,7 +79,7 @@ func (mi *ModuleInstance) OpenKv() *sobek.Object {
 
 const (
 	// DefaultKvPath is the default path to the KV store
-	DefaultKvPath = ".k6.kv"
+	DefaultKvPath = "out/.k6.kv"
 
 	// DefaultKvBucket is the default bucket name for the KV store
 	DefaultKvBucket = "k6"
