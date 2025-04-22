@@ -6,7 +6,7 @@ import (
 	"go.k6.io/k6/js/modules"
 	"go.k6.io/k6/js/promises"
 
-	"github.com/oleiade/xk6-kv/kv/store"
+	"github.com/avitalique/xk6-kv/kv/store"
 )
 
 // KV is a key-value database that can be used to store and retrieve data.

@@ -14,7 +14,7 @@ import (
 	"go.k6.io/k6/js/common"
 	"go.k6.io/k6/js/modules"
 
-	"github.com/oleiade/xk6-kv/kv/store"
+	"github.com/avitalique/xk6-kv/kv/store"
 )
 
 type (
