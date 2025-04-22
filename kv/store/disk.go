@@ -21,7 +21,7 @@ type DiskStore struct {
 
 const (
 	// DefaultDiskStorePath is the default path to the BoltDB database file.
-	DefaultDiskStorePath = ".k6.kv"
+	DefaultDiskStorePath = "out/.k6.kv"
 
 	// DefaultKvBucket is the default bucket name for the KV store
 	DefaultKvBucket = "k6"
